@@ -1,2 +1,2 @@
 # Shared-Bookmarks
-Shared bookmarks for different topics
+While searching on google is easy, grouping good pages takes time. This is what this repository is all about. For example, searching for *ep8266* may result in hours of reading. By grouping in subtopics, I ensure that anyone can reach the proper ressources without spending endless time looking for the good information. I do it for myself in the future, might as well share it for everyone!

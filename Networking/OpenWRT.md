@@ -1,6 +1,7 @@
-* Adding a new device : https://openwrt.org/docs/guide-developer/adding_new_device
-* Flash layout : https://openwrt.org/docs/techref/flash.layout
-* Version history : https://openwrt.org/about/history
+**General**
+ * Adding a new device : https://openwrt.org/docs/guide-developer/adding_new_device
+ * Flash layout : https://openwrt.org/docs/techref/flash.layout
+ * Version history : https://openwrt.org/about/history
 
 **How it works**
 * https://openwrt.org/docs/techref/filesystems#squashfs
